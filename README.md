@@ -16,7 +16,7 @@ Une description claire et concise (5-10 lignes) de votre projet.
 
 ## 👥 L'Équipe
 
-- **Nom Prénom** (aleksyandrianaivo-hash) : Responsable [ex: Algorithmique & Logique]
+- **Nom Prénom** (carticarticartier) : Responsable [ex: Algorithmique & Logique]
 - **Nom Prénom** (@pseudo_git) : Responsable [ex: Interface Graphique & Assets]
 - **Nom Prénom** (@pseudo_git) : Responsable [ex: Gestion des données & Documentation]
 
